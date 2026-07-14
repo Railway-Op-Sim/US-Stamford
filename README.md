@@ -1,4 +1,4 @@
-# Railway Operation Simulator Template Map 
+# Stamford
 A brief description of what the map represents, including era, whether the route is fictional and the level of difficulty.
 
 **NOTE: Asynchronous route building is NOT supported, `.rly` files are not designed such that two versions can be combined by git. For route development contribution you must instead alternate between contributor making sure to pull the latest version before adding to it yourself.**
@@ -67,18 +67,18 @@ release_date = "2021-10-10"
 |When you are ready to publish your simulation to [Railway Operation Simulator](https://railwayoperationsimulator.com/), create a release on the GitHub repository. This will trigger the CI system to create a zip file which you can then use for the upload. Give the CI a couple of minutes, releases can be found on the sidebar for the repository. You will know if it has completed as the release will be called `<github-repo-name> Release <version-number>`, e.g. `Railway-Op-Sim/UN-Template Release v1.0.0`|
 
 
-![Image of Current State of Map](Images/image_name.bmp)
+![Image of Current State of Map](Images/Stamford_NEC.bmp)
 
 ## Current Status
 
 | Stage         | Status        |
 | ------------- |:-------------:|
-| Track Plan     | :x: |
-| Signalling      | :x:      |
-| Naming | :x:      |
-| Speed Limits | :x: |
-| Distances | :x: |
-| Timetable | :x: |
+| Track Plan     | :heavy_check_mark: |
+| Signalling      | :heavy_check_mark:      |
+| Naming | :heavy_check_mark:      |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
+| Timetable | :heavy_check_mark: |
 | Documentation | :x: |
 
 
