@@ -1,0 +1,16 @@
+rly_file = "Stamford_NEC.rly"
+ttb_files = [ "Stamford.ttb",]
+ssn_files = [ "Stamford start routes.ssn",]
+img_files = [ "Stamford_NEC.bmp",]
+doc_files = [ "README.md",]
+release_date = "2026-07-14"
+version = "1.0.0"
+country_code = "US"
+factual = true
+description = ""
+year = 2026
+display_name = "Stamford"
+name = "Stamford"
+signal_position = "left"
+author = "Kristian Zarębski"
+contributors = []
